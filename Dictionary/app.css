@@ -1,0 +1,75 @@
+body{
+    background-color: #ff9b00;
+
+}
+
+h3{
+    font-size: medium;
+}
+
+#list{
+    color: black;
+}
+
+.clickable{
+    cursor: pointer;
+}
+
+#Brand{
+    color: white;
+}
+
+.navbar{
+    background-color: #0c1629 ;
+}
+
+
+section.data{
+    max-width: 600px;
+    margin: 0 auto;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.loading{
+    display: none;
+}
+
+.Suggested{
+    background-color: black;
+    color: #fff;
+    padding: 5px;
+    border-radius: 4px;
+    margin-right: 13px;
+    margin-top: 10px;
+    display: inline-block;
+}
+
+audio {
+    filter: sepia(20%) saturate(70%) grayscale(1) contrast(99%) invert(12%);
+    width: 200px;
+    height: 25px;
+}
+
+.pos{
+    font-style: italic;
+    font-style: bold;
+    margin-bottom: 20px;
+}
+
+.defAudio{
+    margin-bottom: 15px;
+}
+
+main{
+    display: flex;
+}
+.writer{
+    margin-left: 20px;
+}
+.container{
+    min-width: 500px;
+}
+.meanings{
+    margin-left: 150px;
+}
